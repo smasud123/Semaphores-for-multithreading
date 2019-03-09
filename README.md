@@ -9,4 +9,4 @@ USAGE
      ./sort.exe "filename" -o/-r
      
      -o: the mode in which we can see the array cahnges in each stage and phase
-     -r: th emode in which only the sorted array is visible
+     -r: the mode in which only the sorted array is visible
