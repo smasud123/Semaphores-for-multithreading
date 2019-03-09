@@ -10,3 +10,4 @@ USAGE
      
      -o: the mode in which we can see the array cahnges in each stage and phase
      -r: the mode in which only the sorted array is visible
+     sema.init: the file which contains initializing values for each semaphores (3 in our case)
